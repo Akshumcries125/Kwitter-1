@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: aqua;
+    padding-left: 475px;
+    padding-top: 225px;
+     
+}
+h3{
+    font-size: 35px;
+}
+#bird{
+    border-radius:
+    200px;
+    width: 125px;
+    height: 125px;
+}
